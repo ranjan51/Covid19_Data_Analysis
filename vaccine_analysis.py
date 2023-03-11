@@ -4,7 +4,7 @@ import seaborn as sns               #data visualization library built over matpl
 from sklearn.linear_model import LinearRegression
 
 #reading data
-df = pd.read_csv("C:\\Users\\Raman\\OneDrive\\Desktop\\country_vaccinations.csv")
+df = pd.read_csv("C:\\Users\\Ranjan_Kishor\\OneDrive\\Desktop\\country_vaccinations.csv")
 #print one data rows of data set
 print(df.loc[1])
 #grouping data
